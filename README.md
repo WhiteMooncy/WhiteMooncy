@@ -103,18 +103,10 @@ Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz 
   </tr>
   <tr>
     <td width="50%">
-      <h4>🍺 Akelarre</h4>
+      <h4>🍺 Akelarre (no disponible)</h4>
       <p><strong>Frontend | Sitio Web</strong></p>
       <p>Sitio web moderno y responsivo con diseño limpio y navegación intuitiva.</p>
       <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript</p>
-      <p>
-        <a href="https://whitemooncy.github.io/Akelarre/">
-          <img src="https://img.shields.io/badge/Demo-000000?style=flat-square&logo=github-pages" />
-        </a>
-        <a href="https://github.com/WhiteMooncy/Akelarre">
-          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" />
-        </a>
-      </p>
     </td>
     <td width="50%">
       <h4>Más proyectos</h4>
