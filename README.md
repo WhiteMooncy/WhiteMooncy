@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Mateo Villablanca | WhiteMooncy
+# Mateo Villablanca | WhiteMooncy | Brix
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge&logo=code&logoColor=white" />
@@ -35,7 +35,7 @@ Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz 
 | **Frontend** | Interfaces responsivas con HTML5, CSS3, JavaScript vanilla y React. Foco en UX/UI. |
 | **Backend** | Servidores con Node.js y PHP. APIs REST con autenticación y bases de datos. |
 | **Bases de datos** | Diseño, normalización y administración de MySQL y SQL Server. |
-| **DevOps & Seguridad** | Operaciones Linux, monitoreo con Wazuh, infrastructura con XAMPP. |
+| **DevOps & Seguridad** | Operaciones Linux, monitoreo con Wazuh e infrastructura. |
 
 ---
 
