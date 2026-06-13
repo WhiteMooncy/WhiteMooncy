@@ -4,7 +4,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC%20Analyst-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Putaendo%2C%20Chile-2D5016?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
