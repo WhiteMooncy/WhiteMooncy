@@ -86,7 +86,7 @@ Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz 
       </p>
     </td>
     <td width="50%">
-      <h4>☕ Cafetería Admin</h4>
+      <h4>☕ Cafetería </h4>
       <p><strong>Full Stack | Sitio Admin</strong></p>
       <p>Panel administrativo para gestión de inventario y ventas en tiempo real.</p>
       <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript • PHP • MySQL</p>
