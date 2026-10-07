@@ -8,17 +8,15 @@
 </p>
 
 **Técnico en Programación | Estudiante de Ingeniería en Informática**  
-*Construyo aplicaciones web funcionales y sólidas. Experiencia en desarrollo full stack y operaciones de ciberseguridad.*
+*Construyo aplicaciones web funcionales y sólidas. Experiencia en desarrollo.*
 
 </div>
 
 ---
 
-### 💡 Sobre mí
+### Sobre mí 
 
-Desarrollador full stack con **experiencia práctica en Frontend y Backend**, actualmente trabajando como **Analista SOC en operaciones de ciberseguridad** (Wazuh, Linux). 
-
-Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz de usuario hasta la infraestructura. Busco construir soluciones que sean escalables, mantenibles y que resuelvan problemas reales.
+Desarrollador con **experiencia práctica en Frontend y Backend**. 
 
 - 🎓 Técnico titulado en Programación y Análisis de Sistemas (AIEP)
 - 🔐 Experiencia en Ciberseguridad con Wazuh y operaciones Linux
@@ -27,7 +25,7 @@ Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz 
 
 ---
 
-### 🚀 Lo que puedo hacer
+### Lo que puedo hacer
 
 | Área | Descripción |
 |------|-------------|
@@ -67,7 +65,7 @@ Tengo mentalidad de desarrollador que entiende todo el ciclo: desde la interfaz 
 
 ---
 
-### 🎯 Proyectos destacados
+### Proyectos destacados
 
 <table>
   <tr>
